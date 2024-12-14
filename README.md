@@ -18,7 +18,7 @@
 
 I also did some mini projects, they are either small app that came from my own idea or coding challenges from the internet.
 
-- [Blog Card - FrontendMaster Coding Challenge](https://saehri.github.io/rees-frontendmaster-stuffs/blog-preview-card/)
+- [Blog Card - Frontend Mentor Coding Challenge](https://saehri.github.io/rees-frontendmentor-stuffs/blog-preview-card/)
 
 ---
 
