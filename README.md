@@ -3,14 +3,25 @@
 - 🔭 I’m currently working on Tailo: Time and Task Management App ⌛
 - 🌱 I’m currently learning Machine Learning 🤖 and Data Science 📊
 - 🤔 I’m looking for help with Machine Learning and Software Engineering in general
-- 📫 How to reach me: bahreesaepul1@gmail.com or [saehri]()
-- 😄 Pronouns: He/Him (Initially want He/He but Michael J already took it)
-- ⚡ Fun fact: I can eat a hand of bananas in one sitting 🍌🍌🍌 (Unless I'm already full)
+- 📫 How to reach me: bahreesaepul1@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/saepul-bahri-8180bb219/)
+- 😄 Pronouns: He/Him
 
-## Projects That I Want My Employer to See
+---
 
-- [Dimsumyang Indonesia: Landing Page and Mini CMS](https://www.dimsumyang.id/)
+## Personal Project Highlights
 
-## Another informations
+- [Dimsumyang Indonesia: Landing Page and CMS](https://www.dimsumyang.id/)
+
+---
+
+## Mini Project
+
+I also did some mini projects, they are either small app that came from my own idea or coding challenges from the internet.
+
+- [Blog Card - FrontendMaster Coding Challenge](https://saehri.github.io/rees-frontendmaster-stuffs/blog-preview-card/)
+
+---
+
+## See My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saehri)](https://git.io/streak-stats)
