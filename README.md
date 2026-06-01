@@ -26,4 +26,4 @@ I also did some mini projects, they are either small app that came from my own i
 
 ## See My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saehri)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesbyree)](https://git.io/streak-stats)
