@@ -26,10 +26,10 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 
 ### Mini projects (Frontend Mentor challenges)
 
-| Project | Link |
-|---|---|
-| Mortgage Repayment Calculator | [Live](http://ree-mortgage-calculator.netlify.app/) |
-| Space Tourism Website | [GitHub](https://github.com/saehri/frontendmentor-space-tourism-website) |
+| Project | Live Link | GitHub |
+|---|---|---|
+| Mortgage Repayment Calculator with React + Vite, Tailwind CSS and Zustand | [Live](http://ree-mortgage-calculator.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-mortgage-calculator)
+| Space Tourism Website with Astro and Tailwind CSS | [Live](https://fmspacetourism.vercel.app/) | [GitHub](https://github.com/codesbyree/frontendmentor-space-tourism-website)
 
 ---
 
