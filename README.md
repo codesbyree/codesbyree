@@ -28,7 +28,7 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 
 | Project | Link |
 |---|---|
-| Blog Preview Card | [Live](https://saehri.github.io/rees-frontendmentor-stuffs/blog-preview-card/) |
+| Mortgage Repayment Calculator | [Live](http://ree-mortgage-calculator.netlify.app/) |
 | Space Tourism Website | [GitHub](https://github.com/saehri/frontendmentor-space-tourism-website) |
 
 ---
