@@ -28,6 +28,7 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 
 | Project | Live Link | GitHub |
 |---|---|---|
+| Todo App with React + Vite, Tailwind CSS, Zustand, and Motion | [Live](https://ree-todo.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-todo-app) |
 | Mortgage Repayment Calculator with React + Vite, Tailwind CSS and Zustand | [Live](http://ree-mortgage-calculator.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-mortgage-calculator)
 | Space Tourism Website with Astro and Tailwind CSS | [Live](https://fmspacetourism.vercel.app/) | [GitHub](https://github.com/codesbyree/frontendmentor-space-tourism-website)
 
