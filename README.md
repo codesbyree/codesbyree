@@ -28,6 +28,7 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 
 | Project | Live Link | GitHub |
 |---|---|---|
+| IP Location Tracker utilizing Geo IPify and React Leaflet for map visualization | [Live](https://rip-tracker.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-ip-tracker) |
 | Url shortener with React + Vite, Tailwind CSS, Zustand, Motion, and Clean uri API | [Live](https://ourshortlink.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-url-shortener) |
 | Todo App with React + Vite, Tailwind CSS, Zustand, and Motion | [Live](https://ree-todo.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-todo-app) |
 | Mortgage Repayment Calculator with React + Vite, Tailwind CSS and Zustand | [Live](http://ree-mortgage-calculator.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-mortgage-calculator)
