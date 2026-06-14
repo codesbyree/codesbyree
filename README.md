@@ -24,10 +24,11 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 | [HEALTHMED 2026](http://conferences.gunabangsa.ac.id/) | Landing page for STIKES Gunabangsa's international conference, Yogyakarta |
 | [Compgineer 2026](http://compgineer.nutral.id/) | Event landing page for Nutral, Sukabumi |
 
-### Mini projects (Frontend Mentor challenges)
+### Byte Sized Projects That Get Me Going
 
 | Project | Live Link | GitHub |
 |---|---|---|
+| Multi-step Form with React + Vite, Tailwind CSS, Zustand and Motion | [Live](https://fmmultistepform.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-multi-step-form) |
 | Country List Viewer with React + Vite, Tailwind CSS, Zustand, Motion, and REST Countries API | [Live](https://countreelist.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-country-list) |
 | IP Location Tracker utilizing Geo IPify and React Leaflet for map visualization | [Live](https://rip-tracker.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-ip-tracker) |
 | Url shortener with React + Vite, Tailwind CSS, Zustand, Motion, and Clean uri API | [Live](https://ourshortlink.netlify.app/) | [GitHub](https://github.com/codesbyree/fm-url-shortener) |
