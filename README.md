@@ -41,10 +41,3 @@ Undergraduate student · Mobile developer · ML & software engineering enthusias
 ## 📊 GitHub stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codesbyree)](https://git.io/streak-stats)
-
----
-
-## 📄 Resume
-
-- [See my resume here](https://docs.google.com/document/d/1f1U6XrUejwk5IIp5ViNbH0S6X13JoNsXhCiOXt2RMtg/edit?usp=sharing)
-- [Download my resume](https://drive.google.com/file/d/1bF_Du3tVYvJOshxRVmfFVtivaT0swNDw/view?usp=sharing)
